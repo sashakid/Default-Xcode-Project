@@ -7,7 +7,7 @@ A pre-configured Xcode project template ready for iOS development. Designed to s
 
 - Loading ViewControllers manually (without Storyboard)
 - Images and Colors generation using SwiftGen (installed with SPM)
-    - [swiftgen.yml](/.swiftgen.yml)
+    - [swiftgen.yml](/swiftgen.yml)
 - Basic SwiftLint rules (installed with SPM)
     - [swiftlint.yml](/.swiftlint.yml)
 - Basic gitignore file
