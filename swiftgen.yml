@@ -1,0 +1,16 @@
+input_dir: DefaultProject
+output_dir: DefaultProject/Generated
+
+xcassets:
+  - inputs: Assets.xcassets
+    outputs:
+    - templateName: swift5
+      output: Images.swift
+      params:
+        enumName: Images
+  - inputs: Colors.xcassets
+    outputs:
+    - templateName: swift5
+      output: Colors.swift
+      params:
+        enumName: Colors
