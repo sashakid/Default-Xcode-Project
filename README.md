@@ -1,7 +1,7 @@
 # Default-Xcode-Project
 A pre-configured Xcode project template ready for iOS development. Designed to save time and provide a solid starting point for new projects. Feel free to create issues and proposals. Enjoy! 
 
-<img src="https://github.com/sashakid/Default-Xcode-Project/blob/master/magic-wand.png">
+![](https://raw.githubusercontent.com/sashakid/Default-Xcode-Project/refs/heads/main/magic-wand.png)
 
 ## Features:
 
